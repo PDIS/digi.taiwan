@@ -1,7 +1,7 @@
 ---
 title: Open data vital to digital economy, smart governance
 summary: Taiwan is forecast to be the second largest investor in advanced 12-inch wafer plants in the world over the next five years, industrial association SEMI said Wednesday.
-image:  https://www.ey.gov.tw/File/8972009061C00A44?S=L
+image:  https://ws.ndc.gov.tw/Download.ashx?u=LzAwMS9hZG1pbmlzdHJhdG9yLzEwL2NrZmlsZS8xYTA4MTRhOC1hZjQxLTQwNjctYmUxZC02ZGRkNjY0YTExNjcuanBn&n=MTEwMi0xMC5qcGc%3d&icon=.jpg
 permalink: news/open-data-vital-to-digital-economy-smart-governance/
 layout: page
 ---
