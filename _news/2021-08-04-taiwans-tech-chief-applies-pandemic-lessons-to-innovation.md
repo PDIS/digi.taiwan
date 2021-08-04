@@ -19,7 +19,6 @@ According to Minister Wu, “We have shown our skills and expertise in public he
 
 <br/>
 ![](/images/20210804news.jpg)
-Tsung-Tsong Wu, Taiwan’s Minister of Science and Technology
 <br/>
 
 ### Digital Transformation and Energy
