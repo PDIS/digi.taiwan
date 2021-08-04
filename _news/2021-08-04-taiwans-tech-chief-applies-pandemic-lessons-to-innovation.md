@@ -18,6 +18,7 @@ Infections spiked in mid-May, prompting various government restrictions. The num
 According to Minister Wu, “We have shown our skills and expertise in public health and digital technology. With the belief that ‘Taiwan can help’, we have been sharing resources and pandemic experiences with international partners. Many foreigners get to know about Taiwan in the process. The pandemic posts a challenge, but also creates an opportunity for Taiwan to highlight outstanding tech professionals and industry chains”.
 
 ![](/images/20210804news.jpg)
+<br/>
 Tsung-Tsong Wu, Taiwan’s Minister of Science and Technology
 
 ### Digital Transformation and Energy
