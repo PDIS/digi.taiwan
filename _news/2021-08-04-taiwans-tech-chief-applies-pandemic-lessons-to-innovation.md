@@ -17,10 +17,6 @@ Infections spiked in mid-May, prompting various government restrictions. The num
 
 According to Minister Wu, “We have shown our skills and expertise in public health and digital technology. With the belief that ‘Taiwan can help’, we have been sharing resources and pandemic experiences with international partners. Many foreigners get to know about Taiwan in the process. The pandemic posts a challenge, but also creates an opportunity for Taiwan to highlight outstanding tech professionals and industry chains”.
 
-<br/>
-![](/images/20210804news.jpg)
-<br/>
-
 ### Digital Transformation and Energy
 
 Digital transformation and green energy are both key elements. Since 2016, Taiwan has implemented its Digital Nation and Innovative Economic Development Program (DIGI+) along with its 5+2 Innovative Industries Plan.
