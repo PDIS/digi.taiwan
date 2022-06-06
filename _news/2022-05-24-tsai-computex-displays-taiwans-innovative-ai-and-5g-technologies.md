@@ -19,4 +19,4 @@ This year’s theme is Building Global Technology Ecosystems.  Computex runs fro
 
 Date: 2022-05-24
 <br/>
-Source: Taipei City Government
+Source: RTI (Radio Taiwan International)
