@@ -7,7 +7,7 @@ layout: page
 ---
 Taiwan has been ranked as the 11th-most competitive digital economy in the world by the Swiss business management school, the Institute for Management Development (IMD).
 
-In IMD's World Digital Competitiveness Ranking, Taiwan placed 11th out of 63 countries in the world, dropping three spots from its 8th place ranking last year. Taiwan placed 9th in government cybersecurity capacity.
+In IMD's [World Digital Competitiveness Ranking](https://www-api.moda.gov.tw/File/Get/oje8d70tMPouxWK), Taiwan placed 11th out of 63 countries in the world, dropping three spots from its 8th place ranking last year. Taiwan placed 9th in government cybersecurity capacity.
 
 The IMD ranking utilizes three major factors, nine sub-factors, and 54 criteria to measure the capacity and readiness of economies around the world to adapt, explore, and make full use of "digital transformation." The three major indicators are knowledge, technology, and future readiness.
 
