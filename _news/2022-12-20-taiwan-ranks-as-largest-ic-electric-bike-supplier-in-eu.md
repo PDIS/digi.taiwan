@@ -1,6 +1,6 @@
 ---
 title: Taiwan ranks as largest IC, electric bike supplier in EU
-summary: Taiwan ranked in top 3 in 8 categories, 6th in technology indicator
+summary: Taiwan was the largest supplier of semiconductors and electric bicycles to the European Union (EU) in the first nine months of this year
 image: https://imgcdn.cna.com.tw/Eng/WebEngPhotos/1024/2022/20221220/1024x681_95312398545.jpg
 permalink: news/taiwan-ranks-as-largest-ic-electric-bike-supplier-in-eu/
 layout: page
