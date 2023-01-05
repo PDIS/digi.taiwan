@@ -40,3 +40,4 @@ However, the MOF said annual semiconductor exports for 2022 were set to exceed 2
 Date: 2022-10-29
 <br/>
 Source: Focus Taiwan
+
