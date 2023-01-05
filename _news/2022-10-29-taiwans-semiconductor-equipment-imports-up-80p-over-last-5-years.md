@@ -2,7 +2,7 @@
 title: Taiwan's semiconductor equipment imports up 80% over last 5 years
 summary: With local IC suppliers keen to expand production and upgrade technologies, imports of semiconductor equipment to Taiwan surged almost 80 percent over the past five years, according to the Ministry of Finance (MOF).
 image: https://imgcdn.cna.com.tw/Eng/WebEngPhotos/1024/2022/20221029/1024x678_480510311640.jpg
-permalink: news/taiwans-semiconductor-equipment-imports-up-80%-over-last-5-years/
+permalink: news/taiwans-semiconductor-equipment-imports-up-80p-over-last-5-years/
 layout: page
 ---
 With local IC suppliers keen to expand production and upgrade technologies, imports of semiconductor equipment to Taiwan surged almost 80 percent over the past five years, according to the Ministry of Finance (MOF).
