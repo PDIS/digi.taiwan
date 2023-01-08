@@ -1,7 +1,7 @@
 ---
 title: A New Platform for Scientific Research Cooperation between Taiwan and the US－The NSTC Announces the Official Launch of the Taiwan Science and Technology Hub
 summary: On January 3, National Science and Technology Council (NSTC) Minister Tsung-Tsong Wu held a press conference for the launch of the Taiwan Science and Technology Hub (Taiwan S&T Hub).
-image: https://www.nstc.gov.tw/folksonomy/detail/20061aec-5ed4-4cf2-941f-6e2a579ac1cd?l=en
+image: https://www.nstc.gov.tw/nstc/attachments/df533ff9-7e40-47c2-803e-ff25096f0cd8
 permalink: news/a-new-platform-for-scientific-research-cooperation-between-taiwan-and-the-us-the-nstc/
 layout: page
 ---
