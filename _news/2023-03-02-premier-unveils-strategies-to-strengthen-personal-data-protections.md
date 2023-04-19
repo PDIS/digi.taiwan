@@ -1,0 +1,18 @@
+---
+title: Premier unveils strategies to strengthen personal data protections
+summary: Premier Chen Chien-jen on Thursday received a National Development Council (NDC) briefing on measures to guard against personal data leaks by non-government agencies. 
+image: https://wwwstorage.taitung.gov.tw/001/Upload/441/relpic/0/13772/eb5f75bd-86dc-419e-b0e3-cae9b0255b52.jpg
+permalink: news/premier-unveils-strategies-to-strengthen-personal-data-protections/
+layout: page
+---
+Premier Chen Chien-jen on Thursday received a National Development Council (NDC) briefing on measures to guard against personal data leaks by non-government agencies. To build better mechanisms for personal data protection and bolster the private sector's security capabilities, the NDC proposed three main strategies: strengthening the functions of the interministerial liaison meeting on personal data protection; heightening penalties for violation of the Personal Data Protection Act; and establishing an independent supervisory mechanism for the protection of personal data. The government's strategic initiatives will strengthen routine administrative checks for high-risk entities, enhance procedures for the supervision and reporting of serious breaches of personal data, and advocate for increased penalties and other amendments to the Personal Data Protection Act. The establishment of an independent supervisory mechanism will also resolve the current practical difficulties in overseeing management of personal data regulations across many disparate organizational bodies.
+
+Premier Chen said the government bodies supervising various non-government agencies should take precautionary measures by delivering an administrative inspection plan each year and strengthening routine administrative checks for high-risk entities. The Ministry of Digital Affairs (MODA) should assist other ministries and agencies to establish standards for technology and classification, and all relevant ministries and agencies should guide private entities in instituting protective measures and raising awareness of personal data security. The Financial Supervisory Commission should also promote the attainment of data protection management-related or information security-related certification by public companies traded on the stock exchange or in over-the-counter markets.
+
+Interministerial liaison meetings are regularly held to discuss and review stronger personal data protection policies. Premier Chen said that for serious leaks of personal data, the liaison meeting provides a procedural mechanism through which non-government agencies and their supervisory government bodies will be required to report the leak to the NDC and MODA within 24 hours of its detection; open an administrative investigation in conjunction with the National Institute of Cyber Security within three days; and deliver a completed investigation report within 10 days. Non-government agencies are required to rectify the problem or face punishments as stipulated by the Personal Data Protection Act.
+
+As regards heightened penalties, the government will take into consideration how regulatory authorities of other nations respond to violations of data security laws and regulations, and will promote amendments to the Act that raise penalties and increase protections for victims. The government will additionally compel private companies to pay more attention to protection mechanisms for personal data collection and increase investment in data security to prevent future leaks.
+
+Date: 2023-03-02
+<br/>
+Source: Department of Information Services, Executive Yuan
