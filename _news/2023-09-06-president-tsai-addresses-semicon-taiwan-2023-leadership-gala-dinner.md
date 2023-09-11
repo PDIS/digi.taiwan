@@ -1,6 +1,6 @@
 ---
 title: President Tsai addresses SEMICON Taiwan 2023 Leadership Gala Dinner
-summary: Premier Chen (fourth right) and President Tsai (fourth left) attend the Taiwan Space Agency's sendoff ceremony for Triton, a domestically made weather satellite.
+summary: President Tsai Ing-wen addressed the SEMICON Taiwan 2023 Leadership Gala Dinner via video on the evening of September 6.
 image: https://english.president.gov.tw/File/Image/0c033a0c-eba2-404e-8e23-a1663d4197c4
 permalink: news/president-tsai-addresses-semicon-taiwan-2023-leadership-gala-dinner/
 layout: page
