@@ -5,7 +5,7 @@ image: https://imgcdn.cna.com.tw/Eng/WebEngPhotos/800/2023/20231009/1448x2048_84
 permalink: news/taiwans-first-domestic-triton-weather-satellite-launches/
 layout: page
 ---
-Taipei, Oct. 9 (CNA) Taiwan hit a milestone Monday with the successful launch of its inaugural domestically-produced Triton weather satellite, also known as the Wind-Hunter Satellite, which is set to help accurately predict extreme weather events.
+Taiwan hit a milestone Monday with the successful launch of its inaugural domestically-produced Triton weather satellite, also known as the Wind-Hunter Satellite, which is set to help accurately predict extreme weather events.
 
 The satellite was launched from French Guiana at 10:37 p.m. local time on Sunday (9:37 a.m. Monday Taiwan time) as part of an Arianespace Vega C rideshare mission, that is destined for orbit at an altitude of approximately 550-650 kilometers, according to the Taiwan Space Agency (TASA).
 
