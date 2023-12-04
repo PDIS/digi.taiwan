@@ -23,7 +23,7 @@ The IMD evaluation is structured around three major dimensions, consisting of ni
 
 The Ministry of Digital Affairs(moda) has stated that the government will take the IMD report into consideration, assessing Taiwan's strengths and challenges in digital development across dimensions such as knowledge, technology, and future readiness. The moda is committed to develop the digital economy, promote cyber security, and expand Public-Private Partnerships (PPPs) to facilitate digital transformation, ultimately enhancing overall digital resilience.
 
-[More details：](https://www-api.moda.gov.tw/File/Get/moda/en/eMRQwi60Cs4GRkZ
+[More details：](https://www-api.moda.gov.tw/File/Get/moda/en/eMRQwi60Cs4GRkZ)
 
 
 Date: 2023-11-30
