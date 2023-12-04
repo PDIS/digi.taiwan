@@ -1,5 +1,5 @@
 ---
-title: 2023 IMD World Digital Competitiveness: Taiwan Has Advanced to the 9th Position Globally, With the Leading Position in Five Key Indicators Worldwide.
+title: 2023 IMD World Digital Competitiveness：Taiwan Has Advanced to the 9th Position Globally, With the Leading Position in Five Key Indicators Worldwide.
 summary: The International Institute for Management Development (IMD) released the 2023 World Digital Competitiveness Ranking (DCR) today (30th).
 image: https://moda.gov.tw/copyright/MODA/nctx5ma4.szp.jpg
 permalink: news/2023-imd-world-digital-competitiveness-taiwan-has-advanced-to the-9-position-globally-with-the-leading-position-in-five-key-indicators-worldwide/
