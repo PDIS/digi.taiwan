@@ -32,6 +32,7 @@ There will be two deadlines for project submissions: June 30, 2024 and Jan. 31, 
 The prize for each winning team is US$30,000, and "we will offer them world-class mentors and partners from the industrial sector and research institutes, and a platform to turn prototypes into production," Hsu said.
 
 For those interested, visit https://ictaiwanchallenge.org/
+
 <br/>
 Date: 2024-5-14
 <br/>
