@@ -1,5 +1,5 @@
 ---
-title: 'I See Taiwan, IC Taiwan Grand Challenge' launched
+title: "I See Taiwan, IC Taiwan Grand Challenge" launched
 summary: The National Science and Technology Council (NSTC) has launched a global competition with a US$30,000 prize focused on "IC design innovations" and "chip-based innovative applications."
 image: https://imgcdn.cna.com.tw/Eng/WebEngPhotos/800/2024/20240514/2000x1190_0623557485992.jpg
 permalink: /news/i-see-taiwan-ic-taiwan-grand-challenge-launched/
