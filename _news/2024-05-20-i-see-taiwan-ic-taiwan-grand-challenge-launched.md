@@ -39,6 +39,7 @@ The AI innovation and R&D center program, which began in 2020, aims to attract i
 
 Nvidia's investment plan aimed to set up an AI R&D center through a NT$24.3 billion investment, with the MOEA providing a subsidy worth NT$6.7 billion. The company will cooperate with enterprises and universities through its investments.
 <br/>
+<br/>
 Date: 2024-5-20
 <br/>
 Source: Focus Taiwan
