@@ -1,7 +1,7 @@
 ---
 title: Taiwan’s Forerunner 1 supercomputer to go online later in July
 summary: Computer features 62,496 computing cores and performance up to 3.5 Petaflops
-image: images20240111news.jpg
+image: images/20240708news.jpg
 permalink: /news/taiwans-forerunner-1-supercomputer-to-go-online-later-in-july/
 layout: page
 ---
