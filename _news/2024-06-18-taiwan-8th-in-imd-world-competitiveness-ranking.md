@@ -19,6 +19,7 @@ The report also listed challenges Taiwan is facing this year, including the acce
  
 The NDC responded by stating that the government is committed to implementing the National Project of Hope proposed by President Lai Ching-te to advance industry, especially in the artificial intelligence and semiconductor sectors, to strengthen Taiwan’s competitiveness worldwide.
 <br/>
+<br/>
 Date: 2024-6-18
 <br/>
 Source: Taiwan Today
