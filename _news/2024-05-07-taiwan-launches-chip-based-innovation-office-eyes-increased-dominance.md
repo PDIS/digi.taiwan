@@ -27,6 +27,7 @@ The program's office unveiled officially on Tuesday will serve as a platform coo
 
 "It will operate with the aim of undertaking the four areas of the program -- industrial innovation with AI, IC design advancement, talent cultivation, and facilitating foreign investment with the lure of Taiwan's IC infrastructure," Chiueh said.
 <br/>
+<br/>
 Date: 2024-5-7
 <br/>
 Source: Focus Taiwan
