@@ -17,6 +17,7 @@ NCHC Director General Chang Chau-lyan (張朝亮) said Forerunner 1 is set to re
 
 With the launch of Forerunner 1, the NCHC will continue to promote the development of high-performance computing technology and support Taiwan’s technological innovation, NARLabs said.
 <br/>
+<br/>
 Date: 2024-7-8
 <br/>
 Source: Taiwan Today
