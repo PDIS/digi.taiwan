@@ -1,7 +1,7 @@
 ---
 title: Taiwan satellites launch into space on SpaceX rocket
 summary: ‘Albatross’ and ‘Nightjar’ to help with marine research and communication tests
-image: https://image.taiwannews.com.tw/2024%2F08%2F17%2F42be248f897644f5b537794017acf2d8.jpg
+image: images/20240817news.jpg
 permalink: /news/taiwan-satellites-launch-into-space-on-spacex-rocket/
 layout: page
 ---
