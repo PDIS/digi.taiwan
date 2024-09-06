@@ -1,0 +1,23 @@
+---
+title: Economic Development Commission convenes first advisory meeting
+summary: ‘At the inaugural advisory meeting of the Executive Yuan's Economic Development Commission on Tuesday, Premier Cho Jung-tai heard concluding reports delivered by various advisory groups.
+image: https://www.ey.gov.tw/File/6B2426C5FD260093?S=L
+permalink: /news/economic-development-commission-convenes-first-advisory-meeting/
+layout: page
+---
+At the inaugural advisory meeting of the Executive Yuan's Economic Development Commission on Tuesday, Premier Cho Jung-tai heard concluding reports delivered by various advisory groups. The premier thanked advisory group members for outlining the current and future issues facing the nation and for putting forward practical recommendations, and he said the government will work diligently to tackle all challenges.
+
+The Executive Yuan established the Economic Development Commission in July 2024 to address challenges raised by geopolitical developments, net-zero transition, the advent of AI, and domestic and international economic issues, the premier said. To implement resolutions reached in July's inaugural meeting and incorporate input from all levels of society, the Commission's first advisory meeting on Tuesday invited representatives in economics-related fields from Taiwanese industry, government, academia and research institutes to discuss the three main topics of innovative economy, balanced Taiwan and inclusive growth.
+
+On the subject of building a sovereign AI ecosystem, which was discussed by the advisory group on innovative economy, the premier pointed out that Taiwan excels in high-tech manufacturing. Moving forward, the government will bolster software design and applications, establish large-scale Taiwanese databases, develop large language models, and introduce AI technologies into public sector services. Through AI-driven innovation aimed at benefiting everyone, Taiwan can become an island of smart technology that enhances people's daily lives.
+
+Regarding the expansion of manpower and talent needed for industrial development, which was discussed by the advisory group on balanced development across Taiwan, the premier said the government will establish a mechanism to periodically assess industries' human resource needs in order to facilitate the timely filling of manpower gaps. In addition, the government will formulate a high-level framework for national industrial development, which will serve as a basis for planning implementation. Plans for reasonable and appropriate use of national land will also be devised that take into account ecological issues, industrial development, and the needs of the public.
+
+On the subject of diversification and reinvigoration of micro-, small and medium-sized enterprises (MSMEs), discussed by the advisory group on inclusive growth, Premier Cho has instructed the Ministry of Economic Affairs to consolidate resources to provide streamlined one-stop services, so that the public can feel tangible benefits from the government's introduction of technologies. Regarding diversified youth development, the premier said the government is planning the establishment of a NT$10 billion (US$311.9 million) Youth Overseas Dream Fund encouraging young people to travel abroad to widen their international horizons, unlock knowledge and creativity, and acquire the competencies needed for the nation's future strategic industries, so as to facilitate their participation in major national infrastructure projects on returning to Taiwan.
+
+Addressing the issue of raising salaries, Premier Cho said the government is not only focused on adjusting salaries for military personnel, civil servants and public school teachers, but also has a firm desire to quickly stimulate salary growth for a broader range of workers. Regarding expanding social investment, the premier pointed out that when international companies set up factories in Taiwan, the government stands ready to work with international companies to train Taiwanese talent, and will also help domestic MSMEs to train high-tech AI talent, allocating national capital to advance social investment. The premier also said that when salaries do not meet expectations, it is necessary for the government to alleviate and reduce the burdens of families through expanding social investment. To address this issue, the government will assess its financial capacity, and while adhering to fiscal discipline, make reasonable allocations within the scope of the central government's general budget.
+<br/>
+<br/>
+Date: 2024-9-3
+<br/>
+Source: Department of Information Services, Executive Yuan
