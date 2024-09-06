@@ -1,5 +1,5 @@
 ---
-title: Premier: Five Trusted Industry Sectors will strengthen Taiwan's global position
+title: Premier：Five Trusted Industry Sectors will strengthen Taiwan's global position
 summary: At the Cabinet's weekly meeting Thursday, Premier Cho Jung-tai received a National Development Council briefing on a plan to promote Taiwan's Five Trusted Industry Sectors.
 image: images/20240905news.jpg
 permalink: /news/premier-five-trusted-industry-sectors-will-strengthen-taiwans-global-position/
