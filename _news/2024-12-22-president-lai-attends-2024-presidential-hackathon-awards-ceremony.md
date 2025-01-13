@@ -1,7 +1,7 @@
 ---
 title: President Lai attends 2024 Presidential Hackathon awards ceremony
 summary: President Lai Ching-te attended the 2024 Presidential Hackathon awards ceremony
-image: 
+image: https://english.president.gov.tw/File/Image/177813e6-5c00-4e87-ba4f-dea4185f40a4
 permalink: /news/president-lai-attends-2024-presidential-hackathon-awards-ceremony/
 layout: page
 ---
