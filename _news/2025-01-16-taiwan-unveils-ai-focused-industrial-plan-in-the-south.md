@@ -1,7 +1,7 @@
 ---
 title: Taiwan to launch 1st satellite that monitors air quality
 summary: Government to invest NT$6.1 billion in 4 satellites, 1st launch scheduled for 2029
-image: https://image.taiwannews.com.tw/2025%2F01%2F16%2F4e0ed6f8564a4d03bab8afc81696b8d0.jpg
+image: images/20250116news.jpg
 permalink: /news/taiwan-to-launch-1st-satellite-that-monitors-air-quality/
 layout: page
 ---
