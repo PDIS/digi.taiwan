@@ -1,7 +1,7 @@
 ---
 title: CesiumAstro wins Taiwan satellite payload bid
 summary: NT$880 million contract marks Taiwan’s push into B5G satellite communications
-image: https://image.taiwannews.com.tw/2025%2F04%2F01%2Fd0c6b9f93d104f45a98656c708365357.jpg
+image: images/20250401news.jpg
 permalink: /news/cesiumastro-wins-taiwan-satellite-payload-bid/
 layout: page
 ---
