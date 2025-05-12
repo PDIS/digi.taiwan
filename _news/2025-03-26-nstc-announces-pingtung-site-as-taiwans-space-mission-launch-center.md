@@ -1,7 +1,7 @@
 ---
 title: NSTC announces Pingtung site as Taiwan's space mission launch center
 summary: Taiwan's National Science and Technology Council (NSTC) announced Wednesday that it has selected Jiupeng Village in Pingtung County's Manjhou Township as the location for the country's national space mission launch site.
-image: https://image.taiwantoday.tw/images/content/img20250416135356786_800.jpg
+image: https://imgcdn.cna.com.tw/Eng/WebEngPhotos/800/2025/20250326/1024x683_31891293274.jpg
 permalink: /news/nstc-announces-pingtung-site-as-taiwans-space-mission-launch-center/
 layout: page
 ---
