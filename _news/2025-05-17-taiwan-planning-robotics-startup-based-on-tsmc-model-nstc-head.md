@@ -1,5 +1,5 @@
 ---
-title: INTERVIEW/Taiwan planning robotics startup based on TSMC model: NSTC head
+title: INTERVIEW／Taiwan planning robotics startup based on TSMC model: NSTC head
 summary: Taiwan wants to establish a contract robotics startup by as early as 2026 through a model similar to the one that spawned contract chipmaker Taiwan Semiconductor Manufacturing Co. (TSMC), National Science and Technology Council (NSTC) head Wu Cheng-wen (吳誠文) said Friday.
 image: https://imgcdn.cna.com.tw/Eng/WebEngPhotos/800/2025/20250517/1080x768_641155342606.jpg
 permalink: /news/taiwan-planning-robotics-startup-based-on-tsmc-model-nstc-head/
