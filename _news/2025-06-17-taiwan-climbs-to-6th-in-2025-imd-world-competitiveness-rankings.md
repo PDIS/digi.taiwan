@@ -1,7 +1,7 @@
 ---
 title: Taiwan climbs to 6th in 2025 IMD World Competitiveness Rankings
 summary: Taiwan has risen two spots to sixth place in the 2025 IMD World Competitiveness Rankings, outperforming 63 of the 69 surveyed economies.
-image: https: https://imgcdn.cna.com.tw/Eng/WebEngPhotos/800/2025/20250617/1024x682_731114990169.jpg
+image: https://imgcdn.cna.com.tw/Eng/WebEngPhotos/800/2025/20250617/1024x682_731114990169.jpg
 permalink: /news/taiwan-climbs-to-6th-in-2025-imd-world-competitiveness-rankings/
 layout: page
 ---
