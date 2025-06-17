@@ -14,7 +14,8 @@ The index is based on performance in four factors -- economic performance, gover
 Taiwan's overall improvement in the rankings were attributed to a significant jump in the economic performance category, in which it advanced 16 places to 10th, according to the report.
 
 It remained strong in the other three categories, moving up two spots in the rankings to fourth in business efficiency, and remaining unchanged at eighth in government efficiency and 10th in infrastructure.
-
+<br/>
+<img src="https://imgcdn.cna.com.tw/Eng/WebEngPhotos/800/2025/20250617/618x398_605322359386.jpg" />
 Source: https://imd.widen.net/s/wtx5fd2ltn/booklet_wcy_2025
 <br/>
 Taiwan's economic performance jump was largely the result of improvement in the "domestic economy" sub-factor, in which it surged from 13th to 4th.
