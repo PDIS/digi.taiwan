@@ -18,7 +18,7 @@ It remained strong in the other three categories, moving up two spots in the ran
 <br/>
 <img src="https://imgcdn.cna.com.tw/Eng/WebEngPhotos/800/2025/20250617/618x398_605322359386.jpg" width="60%">
 <br/>
-Source: ＜a href=["www.某個網址.com.tw](https://imd.widen.net/s/wtx5fd2ltn/booklet_wcy_2025)" target="_blank"＞[我要顯示的字](https://imd.widen.net/s/wtx5fd2ltn/booklet_wcy_2025)＜/a＞
+Source: ＜a href="https://imd.widen.net/s/wtx5fd2ltn/booklet_wcy_2025" target="_blank"＞https://imd.widen.net/s/wtx5fd2ltn/booklet_wcy_2025＜/a＞
 <br/>
 <br/>
 Taiwan's economic performance jump was largely the result of improvement in the "domestic economy" sub-factor, in which it surged from 13th to 4th.
