@@ -1,5 +1,5 @@
 ---
-title: 'Intelligent rainforest' program to drive regional growth and tech deployment
+title: "Intelligent rainforest" program to drive regional growth and tech deployment
 summary: At Thursday's weekly Cabinet meeting, Premier Cho Jung-tai was briefed by the Ministry of Economic Affairs on an "intelligent rainforest" industrial revitalization program.
 image: images/20250814news.jpg
 permalink: /news/intelligent-rainforest-program-to-drive-regional-growth-and-tech-deployment/
